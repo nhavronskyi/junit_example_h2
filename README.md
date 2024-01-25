@@ -1,1 +1,3 @@
-<h1>JUnit + Spring Boot example with H2</h1>
+<h2>JUnit + Spring Boot + H2 example</h2>
+
+In the tests folder, you can find what JUnit tests look like👨‍💻
